@@ -1,4 +1,4 @@
-package com.training.customer.db;
+package com.training.Inventory.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
