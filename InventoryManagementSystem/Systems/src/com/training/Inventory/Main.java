@@ -1,4 +1,4 @@
-package com.training.customer;
+package com.training.Inventory;
 
 import java.util.List;
 import java.util.Optional;
